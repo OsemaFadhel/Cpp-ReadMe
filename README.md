@@ -3,7 +3,7 @@ All links to the projects
 
 This repository contains some easy projects I did to learn C++ as a beginner.
 
-All projects are numbered by first made. (Follow through number to learn better easier).
+All projects are numbered by first made. (Follow the exercises in order to learn better).
 
 |Number | Project | Language |
 |:-----:|:-------:|:--------:|
